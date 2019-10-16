@@ -1,0 +1,5 @@
+type NotificationEvents @model {
+  id: ID!
+  name: String!
+  description: String
+}
